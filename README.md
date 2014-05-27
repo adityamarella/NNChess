@@ -1,4 +1,4 @@
 NNChess
 =======
 
-Building a chess engine using neuralnetwork
+Building a chess engine using NeuralNetworks
